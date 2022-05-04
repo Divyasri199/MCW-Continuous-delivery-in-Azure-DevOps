@@ -1,5 +1,16 @@
 # Release Notes
 
+
+### 05 May 2022
+
+- Minor Updates in the Lab Guide.
+
+    1. In Exercise-2: Due to the existence of duplicate commands, the command to navigate to the infrastructure folder in the lab files has been removed.
+                      
+                      Updated the command that needs to be added in the seed-cosmosdb.ps1 file.
+                      
+ -------------------------
+
 ### 20 April 2022
 
   - Major updates in the Lab Guide.
